@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-09-24T02:53:17.538433550+09:00"
+from:
+  id-type: crev
+  id: 6iACZBRKY1wa-ShfpFbsB259e0VJ7qyfaAL6icpKKvo
+  url: "https://github.com/denjiry/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde-query
+  version: 0.1.3
+  revision: 79e3604229465c1786ba5c8ea5ef341c3c2de821
+  digest: 8zFQZ7kUGPnit2FPo2Xsi5ud9dqvErFQm46FxHx48js
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  this crate just call serde-query-derive, so there is nothing wrong with this
+----- SIGN CREV PROOF -----
+x8HtptA51QVvFA038ecoCnr5DBg0C-nhSxZXKf2hkPKviUfGYXjpiNnWE2yVLJwastgszjzn7vzIiRCsexp4Cw
+----- END CREV PROOF -----
+
